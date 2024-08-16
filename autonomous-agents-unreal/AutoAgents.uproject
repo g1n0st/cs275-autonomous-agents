@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8DAE0470-4590-2D97-354D-B1B16C085B1D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AutoAgents",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
